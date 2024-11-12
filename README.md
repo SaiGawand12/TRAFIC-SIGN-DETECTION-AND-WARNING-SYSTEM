@@ -48,12 +48,12 @@ This project is a real-time Traffic Sign Detection and Warning System built usin
 
 ## Usage
 
-1. **Run the Application**
+1. **Run the Code**
 
-   Start the Streamlit app by running the following command:
+   Start the video interface by running the following command:
 
    ```bash
-   real_time.py
+   python real_time.py
    ```
 
 2. **Using the Application**
